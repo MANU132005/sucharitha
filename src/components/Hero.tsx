@@ -56,7 +56,7 @@ export default function Hero() {
             <div className="flex flex-wrap items-center gap-2 md:gap-3">
               <div className="inline-flex items-center gap-2 px-3 md:px-4 py-1.5 rounded-full glass-card border border-blue-500/20 bg-blue-500/5 text-[9px] md:text-[10px] font-mono text-blue-300 tracking-widest uppercase">
                 <ShieldCheck className="w-3 md:w-3.5 h-3 md:h-3.5" />
-                QUB Global Ambassador
+                QUB Global Student Ambassador
               </div>
               <div className="inline-flex items-center gap-2 px-3 md:px-4 py-1.5 rounded-full glass-card border border-white/10 text-[9px] md:text-[10px] font-mono text-white/40 tracking-widest uppercase">
                 <Terminal className="w-3 md:w-3.5 h-3 md:h-3.5" />
@@ -236,7 +236,7 @@ export default function Hero() {
                     alt="Sucharitha Reddy Vakamalla"
                     fill
                     priority
-                    className="object-cover object-top opacity-95 group-hover:opacity-100 transition-all duration-1000"
+                    className="object-cover object-center opacity-95 group-hover:opacity-100 transition-all duration-1000"
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 600px"
                   />
                 </div>
